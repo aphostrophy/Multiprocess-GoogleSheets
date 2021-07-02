@@ -1,0 +1,23 @@
+{
+  "name": "multiprocess-googlesheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aphostrophy/Multiprocess-GoogleSheets.git"
+  },
+  "author": "Jesson Yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aphostrophy/Multiprocess-GoogleSheets/issues"
+  },
+  "homepage": "https://github.com/aphostrophy/Multiprocess-GoogleSheets#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
