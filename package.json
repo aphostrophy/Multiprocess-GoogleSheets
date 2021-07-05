@@ -19,6 +19,7 @@
   "homepage": "https://github.com/aphostrophy/Multiprocess-GoogleSheets#readme",
   "dependencies": {
     "googleapis": "^39.2.0",
-    "node-ipc": "^9.2.1"
+    "node-ipc": "^9.2.1",
+    "node-multiprocess": "^0.0.2"
   }
 }
